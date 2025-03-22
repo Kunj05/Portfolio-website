@@ -51,7 +51,7 @@ export default function AboutPage() {
           <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-xl p-4 sm:p-6 flex flex-col sm:flex-row items-center sm:items-start gap-4 sm:gap-6">
             <div className="w-16 h-16 rounded-full overflow-hidden flex-shrink-0">
               <Image
-                src="https://www.google.com/imgres?q=pict%20logo&imgurl=x-raw-image%3A%2F%2F%2F9a701c4409f821fe8961fe8be20d75c8983efcfc34da37aadf632dbc0fc97d91&imgrefurl=https%3A%2F%2Fpict.edu%2Fadmission-ug%2Fpdf%2FInstitute%2520Information%2520Brochure_Prospectus_AY2024-25_V3%252010082024_%25201548.pdf&docid=v7HbP_jv5Ip56M&tbnid=_iH4CUQccJozrM&vet=12ahUKEwjOh62Ym5KMAxVFTmwGHWQQBBsQM3oECEgQAA..i&w=490&h=491&hcb=2&ved=2ahUKEwjOh62Ym5KMAxVFTmwGHWQQBBsQM3oECEgQAA"
+                src="./cllg.jpeg"
                 alt="University Logo"
                 width={64}
                 height={64}
@@ -98,7 +98,7 @@ export default function AboutPage() {
                   <div className="flex items-start gap-4">
                     <div className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
                       <Image
-                        src="/tools.png"
+                        src="/zymo.jpg"
                         alt="Zymo"
                         width={32}
                         height={32}
@@ -109,7 +109,7 @@ export default function AboutPage() {
                       <div className="flex justify-between items-start">
                         <div>
                           <h3 className="text-lg font-semibold">
-                            Moonshot Media
+                            Zymo
                           </h3>
                           <p className="text-white/60">
                             Fullstack Developer Intern
