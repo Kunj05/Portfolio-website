@@ -46,7 +46,7 @@ const projects = [
   status: 'Nov 2024 - Dec 2024',
   links: [
     { label: 'Github', url: 'https://github.com/Kunj05/TraceSentry' },
-    { label: 'Live Demo', url: 'https://trace.sentry.vercel.app' },
+    { label: 'Live Demo', url: 'https://trace.sentry.kunjchandak.me/' },
   ],
 },
   {
