@@ -34,7 +34,7 @@ const projects = [
     status:"April 2024 - May 2024",
     links: [
       { label: 'Github', url: 'https://github.com/Kunj05/Edtech-Project' },
-      { label: 'Link', url: 'https://study-notion-ed-tech-kappa.vercel.app' },
+      { label: 'Link', url: 'https://studynotion-master.vercel.app/' },
       
     ],
   },
@@ -46,7 +46,7 @@ const projects = [
   status: 'Nov 2024 - Dec 2024',
   links: [
     { label: 'Github', url: 'https://github.com/Kunj05/TraceSentry' },
-    { label: 'Live Demo', url: 'https://trace-sentry.vercel.app' },
+    { label: 'Live Demo', url: 'https://trace.sentry.vercel.app' },
   ],
 },
   {
