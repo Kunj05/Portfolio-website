@@ -85,7 +85,7 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-black text-white pb-10">
+    <main className="min-h-screen bg-#121212 text-white pb-10">
       <Spotlight
         className="fixed -top-70 left-0 md:left-60 md:-top-0"
         fill="white"
