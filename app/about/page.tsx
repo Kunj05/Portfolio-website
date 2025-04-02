@@ -78,7 +78,7 @@ export default function AboutPage() {
         </section>
 
         {/* Work Experience Section */}
-        <section className="mt-12 sm:mt-16 mb-10">
+        <section className="mt-12 sm:mt-16">
           <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 flex items-center gap-2">
             Grindin' & Hustlin' 仕
           </h2>
@@ -146,6 +146,22 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
+
+        <div className="mt-12 sm:mt-16 mb-10">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 flex items-center gap-2">
+            My Thoughts
+         </h2>
+                    <div className="w-12 h-12 rounded-full bg-white/10 flex items-center justify-center flex-shrink-0">
+                      <Image
+                        src="/image.png"
+                        alt="Obsession"
+                        width={64}
+                        height={64}
+                        className="rounded-full"
+                      />
+                    </div>
+
+        </div>
       </div>
     </main>
   );
