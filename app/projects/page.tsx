@@ -141,7 +141,6 @@ const ProjectsPage = () => {
           </div>
         </div>
       </main>
-      <a href='/php'>Php heloooooooooooooooooooooooooooooooooo</a>
     </div>
   );
 }
